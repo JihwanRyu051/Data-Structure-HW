@@ -1,0 +1,12 @@
+* sapiens_example
+length : 18
+
+* sapiens_small
+length : 718
+
+* sapiens
+length : 1,100,960
+A : 276838
+G : 274505
+T : 271070
+C : 278547

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1599597212 source:c:\2020_2학기\자료구조\datastructurehw01_201724461\main.cpp
+	<iostream>
+	<fstream>
+
+1475221668 source:c:\2020_2학기\자료구조\stl 1000 - coding basic 1(c)\coding 260- io_stream\stl-iostream-340 - ostreamiter1.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1475221636 source:c:\2020_2학기\자료구조\stl 1000 - coding basic 1(c)\coding 260- io_stream\stl-iostream-330 - istreamiter1.cpp
+	<iostream>
+	<iterator>
+
+1599610483 source:c:\2020_2학기\자료구조\datastructurehw01_201724461\robocop.cpp
+	<iostream>
+
+1599759150 source:c:\2020_2학기\자료구조\과제\datastructurehw01_201724461\robocop00.cpp
+	<iostream>
+
+1599759666 source:c:\2020_2학기\자료구조\과제\datastructurehw01_201724461\robocop.cpp
+	<iostream>
+

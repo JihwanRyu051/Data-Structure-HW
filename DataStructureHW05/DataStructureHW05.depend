@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1601637368 source:c:\2020_2학기\자료구조\과제\datastructurehw05\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<array>
+
+1601647967 source:c:\2020_2학기\자료구조\과제\datastructurehw05\cafe002.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<array>
+
+1601729989 source:c:\2020_2학기\자료구조\과제\datastructurehw05\cafe2.cpp
+	<bits/stdc++.h>
+
+1601727841 source:c:\2020_2학기\자료구조\과제\datastructurehw05\cafe222.cpp
+	<bits/stdc++.h>
+

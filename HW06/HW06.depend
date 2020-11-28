@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1601963242 source:c:\2020_2학기\자료구조\과제\hw06\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+
+1602005617 source:c:\2020_2학기\자료구조\과제\hw06\polyadd.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1602013843 source:c:\2020_2학기\자료구조\과제\hw06\polymulti.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1602063896 source:c:\2020_2학기\자료구조\과제\hw06\polymult.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

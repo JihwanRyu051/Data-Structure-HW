@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602714459 source:c:\2020_2학기\자료구조\과제\hw08\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+
+1602845672 source:c:\2020_2학기\자료구조\과제\hw08\gift.cpp
+	<iostream>
+	<stack>
+	<vector>
+

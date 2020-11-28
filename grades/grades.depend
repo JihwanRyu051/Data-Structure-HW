@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603692470 source:c:\2020_2학기\자료구조\과제\grades\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<algorithm>
+	<string>
+

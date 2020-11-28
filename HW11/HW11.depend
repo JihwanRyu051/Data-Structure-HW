@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603964236 source:c:\2020_2학기\자료구조\과제\hw11\yard.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

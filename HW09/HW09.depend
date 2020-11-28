@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1603118323 source:c:\2020_2학기\자료구조\과제\hw09\main.cpp
+	<iostream>
+	<stack>
+
+1603117400 source:c:\2020_2학기\자료구조\main.cpp
+	<iostream>
+	<stack>
+
+1603120498 source:c:\users\polar mango\desktop\main.cpp
+	<iostream>
+	<stack>
+
+1603144495 source:c:\users\polar mango\desktop\phone.cpp
+	<iostream>
+	<stack>
+
+1603284567 source:c:\2020_2학기\자료구조\과제\hw09\phone.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<algorithm>
+
+1603199759 source:c:\users\polar mango\desktop\main_2.cpp
+	<iostream>
+	<stack>
+

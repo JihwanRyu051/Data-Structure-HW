@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="HW14" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/HW14" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/HW14" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../../STL 6000 - Trees 1(d)/Tree 0200 - Binary Search Tree 1(c)/BST- 120 - Tree Traversal 3.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="../../STL 6000 - Trees 1(d)/Tree 0200 - Binary Search Tree 1(c)/BST- 150 - Tree Making.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="../../STL 6000 - Trees 1(d)/Tree 0200 - Binary Search Tree 1(c)/BST- 200 - Tree Insert.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="../../STL 6000 - Trees 1(d)/Tree 0200 - Binary Search Tree 1(c)/BST- 240 - Inorder Using Stack.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="../../STL 6000 - Trees 1(d)/Tree 0200 - Binary Search Tree 1(c)/BST- 280 - Inorder with No_stack.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="../../STL 6000 - Trees 1(d)/Tree 0200 - Binary Search Tree 1(c)/BST- 340 - Interactive Machine.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="../../STL 6000 - Trees 1(d)/Tree 0200 - Binary Search Tree 1(c)/BST- 410 - Tree Split.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="../../STL 6000 - Trees 1(d)/Tree 0200 - Binary Search Tree 1(c)/BST- 500 - Binary Tree to BST.cpp">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="BTS.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
